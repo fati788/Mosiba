@@ -1,7 +1,9 @@
 package viernes;
 
 import java.util.Scanner;
-
+/**
+ * Es una clase para practicar por el examen
+ */
 public class AumentoSueldo {
 
 	public static void main(String[] args) {
